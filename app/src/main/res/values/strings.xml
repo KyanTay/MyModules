@@ -2,4 +2,12 @@
     <string name="app_name">My Modules</string>
     <string name="tvModule1">C246 Android Programming</string>
     <string name="tvShowModule">TextView</string>
+    <string name="tvC203">TextView</string>
+    <string name="tvShowC203">C203 Web AppIn Development in php</string>
+    <string name="tvShowC206">Software Development Process</string>
+    <string name="tvShowC218">UI/UX Design for Apps</string>
+    <string name="tvShowC235">IT Security and Management</string>
+    <string name="tvPlaceHolderC206">TextView</string>
+    <string name="tvPlaceHolder">TextView</string>
+    <string name="tvShowC235PlaceHolder">TextView</string>
 </resources>

@@ -5,9 +5,9 @@
     android:orientation="vertical">
 
     <TextView
-        android:id="@+id/tvShowC203Module"
+        android:id="@+id/tvC218"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/tvC203"
+        android:text="@string/tvPlaceHolder"
         android:padding="16dp"/>
 </LinearLayout>

@@ -16,6 +16,27 @@
         android:id="@+id/tvModule2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="TextView"
+        android:text="@string/tvShowC203"
+        android:padding="16dp"/>
+
+    <TextView
+        android:id="@+id/tvModule3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/tvShowC206"
+        android:padding="16dp"/>
+
+    <TextView
+        android:id="@+id/tvModule4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/tvShowC218"
+        android:padding="16dp"/>
+
+    <TextView
+        android:id="@+id/tvModule5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/tvShowC235"
         android:padding="16dp"/>
 </LinearLayout>
