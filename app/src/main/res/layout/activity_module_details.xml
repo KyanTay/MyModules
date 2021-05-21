@@ -4,18 +4,10 @@
     android:layout_height="match_parent"
     android:orientation="vertical">
 
-
     <TextView
-        android:id="@+id/tvModule1"
+        android:id="@+id/tvShowModule"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/tvModule1"
-        android:padding="16dp"/>
-
-    <TextView
-        android:id="@+id/tvModule2"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="TextView"
+        android:text="@string/tvShowModule"
         android:padding="16dp"/>
 </LinearLayout>

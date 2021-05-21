@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">My Modules</string>
+    <string name="tvModule1">C246 Android Programming</string>
+    <string name="tvShowModule">TextView</string>
 </resources>
